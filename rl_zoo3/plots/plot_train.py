@@ -87,7 +87,7 @@ def plot_train():
 
     plt.legend()
     plt.tight_layout()
-    plt.save_fig("train_plot")
+    plt.savefig("train_plot")
     plt.show()
 
 
